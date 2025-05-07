@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131008852529",
+    "project_id": "opulenza-b5db7",
+    "storage_bucket": "opulenza-b5db7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131008852529:android:6140844c443f8c7e1d5b10",
+        "android_client_info": {
+          "package_name": "com.example.opulenza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADnr4vGEkKaeYvkigg0npyyIAT3UQGkZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
